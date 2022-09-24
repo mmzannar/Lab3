@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class fixed {
+public class v2 {
 
     public static void main(String[] args) {
 
